@@ -8,7 +8,12 @@ I used ai to help me with stuff like color schemes and window rounding, but http
 
 >  INSTALLATION
 
- Simply copy and paste the files (except readme and license) to your ~/.config/ folder.
+ Simply clone this repo and cd into it:
+ 
+ git clone https://github.com/Nocturnial/Sunset-Overdrive/
+ cd ~/Sunset-Overdrive/
+ 
+ Then just copy and paste the files (except readme and license) to your ~/.config/ folder.
 
 > Once again, im not responsible for setup breakages. Go crazy.
 
