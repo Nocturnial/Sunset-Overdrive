@@ -4,7 +4,7 @@
 
 > DISCLAIMER
 
-I used ai to help me with stuff like color schemes and window rounding, but https://github.com/Nocturnial/Sunset-Overdrive/edit/main/README.mdNOT complex scripts. I am disclosing this to be honest and genuine. USE THIS AT YOUR OWN RISK or take it as inspiration. I am NOT responsible for it not working on your setup.
+I used ai to help me with stuff like color schemes and window rounding, but NOT complex scripts. I am disclosing this to be honest and genuine. USE THIS AT YOUR OWN RISK or take it as inspiration. I am NOT responsible for it not working on your setup.
 
 >  INSTALLATION
 
