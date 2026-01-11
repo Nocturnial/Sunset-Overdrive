@@ -14,4 +14,4 @@ I used ai to help me with stuff like color schemes and window rounding, but http
 
 >SCREENSHOT
 
-![Desktop Preview](assets/preview.png)
+![Desktop Preview](preview.png)
