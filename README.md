@@ -11,3 +11,7 @@ I used ai to help me with stuff like color schemes and window rounding, but http
  Simply copy and paste the files (except readme and license) to your ~/.config/ folder.
 
 > Once again, im not responsible for setup breakages. Go crazy.
+
+>SCREENSHOT
+
+![Desktop Preview](assets/preview.png)
