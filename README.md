@@ -6,6 +6,10 @@
 
 I used ai to help me with stuff like color schemes and window rounding, but NOT complex scripts. I am disclosing this to be honest and genuine. USE THIS AT YOUR OWN RISK or take it as inspiration. I am NOT responsible for it not working on your setup.
 
+>DEPENDENCIES
+
+This setup requires fuzzel, mako, kitty, niri and noctalia-shell
+
 >  INSTALLATION
 
  Simply clone this repo and cd into it:
