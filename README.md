@@ -1,4 +1,4 @@
->> THESE DOTS ARE NOT MAINTAINED ANYMORE. I'VE SWITCHED TO ARCH/GENTOO. Not that it matters, ive never updated these
+>> THESE DOTS ARE NOT MAINTAINED ANYMORE. I'VE SWITCHED TO NIXOS/GENTOO. Not that it matters, ive never updated these
 > 
 
 
