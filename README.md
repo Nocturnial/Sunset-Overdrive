@@ -1,3 +1,7 @@
+>> THESE DOTS ARE NOT MAINTAINED ANYMORE. I'VE SWITCHED TO ARCH/GENTOO. Not that it matters, ive never updated these
+> 
+
+
 > Sunset Overdrive
 
  My personal Arch Niri setup
